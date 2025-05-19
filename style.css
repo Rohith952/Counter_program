@@ -1,0 +1,36 @@
+#d1{
+    text-align: center;
+    font-family: Arial, Helvetica, sans-serif;
+    font-size: large;
+    display: block;
+    margin: 20px;
+}
+#l1{
+    text-align: center;
+    font-size: 10em;
+}
+.a{
+    padding: 5px 5px;
+    font-family: Arial, Helvetica, sans-serif;
+    font-size: 1em;
+    cursor: pointer;
+    transition: background-color 0.25s;
+}
+#b1{
+    background-color:rgb(231, 231, 231);
+    color:hsl(0, 94%, 50%);
+    border-radius: 4px;
+}
+#b2{
+    background-color:yellow;
+    color:hsl(0, 94%, 50%);
+    border-radius: 4px;
+}
+#b3{
+    background-color:lightgreen;
+    color:hsl(0, 27%, 48%);
+    border-radius: 4px;
+}
+.a:hover{
+    background-color: aqua;
+}
